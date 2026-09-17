@@ -1,0 +1,32 @@
+{
+ "by_uid": {
+  "2D718E366B06D02D": "ahr0725",
+  "C0A2967ACBD0CC67": "ahr0332",
+  "D4C1B9ABBE80D219": "ahr0724"
+ },
+ "generated": "2026-09-17T20:37:49+00:00",
+ "hands": {
+  "ahr0332": {
+   "path": "hands/ahr0332.json",
+   "rev": 1,
+   "sha256": "bcefe77676bf5c35e9f570213461ed790b7ecc87e1b2746682ec8874a91f4871",
+   "side": "right",
+   "uid": "C0A2967ACBD0CC67"
+  },
+  "ahr0724": {
+   "path": "hands/ahr0724.json",
+   "rev": 1,
+   "sha256": "6356540fb00d38c1d4c2b7c6b9ba36d728b7d6e44c9c2e34dcf284ce159b477e",
+   "side": "left",
+   "uid": "D4C1B9ABBE80D219"
+  },
+  "ahr0725": {
+   "path": "hands/ahr0725.json",
+   "rev": 1,
+   "sha256": "6bd5b22e8046f6a9e49fe95843222a4ff273d0cbf30bfbcd01518d900d261a3f",
+   "side": "right",
+   "uid": "2D718E366B06D02D"
+  }
+ },
+ "schema": "calib_index/1"
+}
