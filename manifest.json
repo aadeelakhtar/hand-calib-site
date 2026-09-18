@@ -5,12 +5,12 @@
   "C0A2967ACBD0CC67": "ahr0332",
   "D4C1B9ABBE80D219": "ahr0724"
  },
- "generated": "2026-09-18T01:21:48+00:00",
+ "generated": "2026-09-18T01:24:38+00:00",
  "hands": {
   "ahr0332": {
    "path": "hands/ahr0332.json",
-   "rev": 2,
-   "sha256": "eb1ad2ecbdcad331d7b653de8ffae3b4c3291bdb5fcc2d888bbf3ec72eb035dc",
+   "rev": 3,
+   "sha256": "b8fe85521e867edcadd07c6e7118079396c02edb6275b5b4626861f4e74b62e6",
    "side": "right",
    "uid": "C0A2967ACBD0CC67"
   },
@@ -23,8 +23,8 @@
   },
   "ahr0725": {
    "path": "hands/ahr0725.json",
-   "rev": 2,
-   "sha256": "b2502a894aaa31c36e2d49f55a41c374c41aa1ebbe5fc433ae963160d48b595d",
+   "rev": 3,
+   "sha256": "83325c4ad1e07621b14eca9d30cb799c0d736830f15b9fcb22abac80e19e101f",
    "side": "right",
    "uid": "2D718E366B06D02D"
   },
