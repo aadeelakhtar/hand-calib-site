@@ -5,12 +5,12 @@
   "C0A2967ACBD0CC67": "ahr0332",
   "D4C1B9ABBE80D219": "ahr0724"
  },
- "generated": "2026-09-18T00:53:26+00:00",
+ "generated": "2026-09-18T01:21:48+00:00",
  "hands": {
   "ahr0332": {
    "path": "hands/ahr0332.json",
-   "rev": 1,
-   "sha256": "bcefe77676bf5c35e9f570213461ed790b7ecc87e1b2746682ec8874a91f4871",
+   "rev": 2,
+   "sha256": "eb1ad2ecbdcad331d7b653de8ffae3b4c3291bdb5fcc2d888bbf3ec72eb035dc",
    "side": "right",
    "uid": "C0A2967ACBD0CC67"
   },
@@ -23,8 +23,8 @@
   },
   "ahr0725": {
    "path": "hands/ahr0725.json",
-   "rev": 1,
-   "sha256": "6bd5b22e8046f6a9e49fe95843222a4ff273d0cbf30bfbcd01518d900d261a3f",
+   "rev": 2,
+   "sha256": "b2502a894aaa31c36e2d49f55a41c374c41aa1ebbe5fc433ae963160d48b595d",
    "side": "right",
    "uid": "2D718E366B06D02D"
   },
