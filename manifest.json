@@ -5,7 +5,7 @@
   "C0A2967ACBD0CC67": "ahr0332",
   "D4C1B9ABBE80D219": "ahr0724"
  },
- "generated": "2026-09-18T00:42:58+00:00",
+ "generated": "2026-09-18T00:53:26+00:00",
  "hands": {
   "ahr0332": {
    "path": "hands/ahr0332.json",
@@ -30,8 +30,8 @@
   },
   "ahr0733": {
    "path": "hands/ahr0733.json",
-   "rev": 3,
-   "sha256": "707b4256b9107e6cabaa8917bf870522c5164d43397c18227696b2d93c59db4f",
+   "rev": 4,
+   "sha256": "4c4962f84f3b24de785edfa38798ea57d441bde4e145e21465a0734ecf2b614a",
    "side": "right",
    "uid": "2810570601E5D99A"
   }
